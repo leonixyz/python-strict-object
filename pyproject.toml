@@ -1,0 +1,20 @@
+[project]
+name = "strictobject"
+version = "0.0.1"
+authors = [{ name="leonixyz"},]
+description = "Lightweight validation for python objects."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/leonixyz/strictobject"
+"Bug Tracker" = "https://github.com/leonixyz/strictobject/issues"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

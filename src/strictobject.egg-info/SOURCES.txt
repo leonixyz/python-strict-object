@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/strictobject/__init__.py
+src/strictobject/object.py
+src/strictobject.egg-info/PKG-INFO
+src/strictobject.egg-info/SOURCES.txt
+src/strictobject.egg-info/dependency_links.txt
+src/strictobject.egg-info/top_level.txt
+tests/test_object.py
